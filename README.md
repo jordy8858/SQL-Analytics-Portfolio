@@ -1,2 +1,2 @@
 # SQL-Analytics-Portfolio
-SQL-driven analytics projects designed to optimize sales operations, track KPIs, and extract actionable insights from corporate databases.
+This repository houses a collection of data analytics projects designed to bridge the gap between raw data and corporate strategy. Moving beyond standard data manipulation, these projects focus on relational database architecture and advanced SQL techniques (CTEs, Window Functions, Views) to build scalable business intelligence reporting. The primary objective of this portfolio is to demonstrate how data can be leveraged to track KPIs, optimize sales pipelines, and drive actionable decision-making in fast-paced corporate environments.
